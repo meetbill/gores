@@ -1,0 +1,6 @@
+github.com/deckarep/golang-set v1.8.0 h1:sk9/l/KqpunDwP7pSjUg0keiOOLEnOBHzykLrsPppp4=
+github.com/deckarep/golang-set v1.8.0/go.mod h1:5nI87KwE7wgsBU1F4GKAw2Qod7p5kyS383rP6+o6qqo=
+github.com/garyburd/redigo v1.6.3 h1:HCeeRluvAgMusMomi1+6Y5dmFOdYV/JzoRrrbFlkGIc=
+github.com/garyburd/redigo v1.6.3/go.mod h1:rTb6epsqigu3kYKBnaF028A7Tf/Aw5s0cqA47doKKqw=
+github.com/wang502/gores v0.0.0-20170525201607-cf0f66697fbe h1:RzAOfM8g8OzbkCPptqezns6RpKKMEc2qhKY8hADvysA=
+github.com/wang502/gores v0.0.0-20170525201607-cf0f66697fbe/go.mod h1:eSBLe9In7oyqmx1FGvF1rYVejSltPYQlEC8c/g729nI=

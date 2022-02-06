@@ -1,0 +1,11 @@
+{
+  "RedisURL": "127.0.0.1:6384",
+  "RedisPassword": "mypassword",
+  "RedisMaxIdle": 5,
+  "RedisIdleTimeout": 240,
+  "BlpopMaxBlockTime" : 1,
+  "MaxWorkers": 1,
+  "Queues": ["testjob"],
+  "DispatcherTimeout": 1,
+  "WorkerTimeout": 5
+}
