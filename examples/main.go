@@ -24,13 +24,14 @@ func consume(config *gores.Config) error {
 }
 
 func main() {
-	configPath := flag.String("c", "config.json", "path to configuration file")
-	flag.Parse()
+    configPath := flag.String("c", "config.json", "path to configuration file")
+    flag.Parse()
 
-	config, err := gores.InitConfig(*configPath)
-	if err != nil {
-		log.Fatal(err)
-	}
+    config, err := gores.InitConfig(*configPath)
+    if err != nil {
+        log.Fatal(err)
+        return
+    }
 
     err = consume(config)
     if err != nil {
